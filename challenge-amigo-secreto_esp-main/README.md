@@ -12,8 +12,8 @@ En este juego se ingresan los nombres de varios amigos para posteriormente sorte
 - Para que se considere un nombre válido, el nombre debe contener solo texto (no se permiten números ni caracteres especiales)  
 - Sortea de forma aleatoria uno de los nombres ingresados, el cuál será el amigo secreto  
 
-![Imagen1](assets/dosAmigos.png.png)
-![Imagen2](assets/nombreValido.png.png)
+![Imagen1](assets/dosAmigos.png)
+![Imagen2](assets/nombreValido.png)
 
 ---
 
@@ -52,3 +52,4 @@ En este juego se ingresan los nombres de varios amigos para posteriormente sorte
 - `index.html` → Para modificar la página.  
 - `styles.css` → Para modificar el estilo de la página (fuentes, colores, etc.).  
 - `script.js` → Para modificar la lógica de programación y el algoritmo del sorteo de nombres.  
+
